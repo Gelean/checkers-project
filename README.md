@@ -26,6 +26,5 @@ Note: Since draws are determined by judges at Checkers tournaments, it is not ha
   
 # Links and References
 
-* https://login.oracle.com/mysso/signon.jsp
 * https://stackoverflow.com/questions/51666387/migrating-applet-application-to-java-11
 * https://stackoverflow.com/questions/54505959/error-could-not-find-or-load-main-class-sun-applet-appletviewer

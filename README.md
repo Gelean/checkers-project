@@ -5,7 +5,7 @@ An AI project written in Java and using the ucigame library that was created for
 ## Installation & Configuration
 
 1. Download the source code from this repository
-1. Download and install Java 8 from Oracle website: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+1. Download and install Java 8 from the Oracle website: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 1. Download the Ucigame library: http://www.ucigame.org/ucigame.jar
 1. Move the Ucigame library into the lib folder in the project folder and into the location of where you installed Java 8 (ex: C:\Program Files (x86)\Java\jre1.8.0_151)
 1. Add the ucigame.jar to the Project
